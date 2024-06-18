@@ -8,7 +8,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    tools:context="MainActivity1">
+    tools:context=".MainActivity1">
     <TextView
         android:id="@+id/tvLogin1"
         android:layout_width="wrap_content"
@@ -38,4 +38,5 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Login"/>
+
 </LinearLayout>
